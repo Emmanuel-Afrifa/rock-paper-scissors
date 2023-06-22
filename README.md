@@ -15,8 +15,8 @@
 ![Screenshot of the webpage](Web%20capture_22-6-2023_1172_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](#)
-- [Deployed site](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/rock-paper-scissors)
+- [Deployed site](https://rock-paper-scissors-gamplay-online.netlify.app/)
 
 ## Process
 ### Tools Used
